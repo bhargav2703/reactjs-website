@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  color: black;
+}
+.footerh2{
+  font-size: 30px;
+}
+.social-icons{
+    text-align: center;
+}
+.pic{
+  padding-top: 100px;
+  text-align: center;
+  background-image: url('/images/ioei.jpg');background-position: center;
+  background-size: 100%;
+  height: 300px;
+  color: white;
+}
+.animalwelf{
+  padding-top: 100px;
+  text-align: center;
+  background-image: url('/images/multicolored-cat-paws-flat-design-cute-cat-paws-wallpaper-vector-illustration_623474-164.jpg');background-position: center;
+  background-size: 100%;
+  width: 1600px;
+  height: 300px;
+  color: black;
+  padding-bottom: 300px;
+}
+.kids{
+  /* background-image: url('/images/ioei.jpg'); */
+  background-position: center;
+  background-size: 100%;
+  height: 110%;
+  padding: 20px;
+  background-repeat: no-repeat;
+  color: black;
+}
+.auth{
+  color: black;
+  padding-top: 30px;
+
+}
+.auth>h3{
+  font-size:xx-large;
+}
+.aboutus{
+  padding: 20px;
+  color: black;
+}
+.forms{
+  width: 30%;
+  border: 2px solid black;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.h2us{
+  padding-top: 80px;
+  text-align: center;
+  background-color: black;
+  color: peachpuff;
+  background-image: url('/images/BUI0cEtJ-1024x956-600x600.jpg');
+  height: 250px;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 35px;
+}
+.qr{
+  /* background-image: url('QR.pnh'); */
+  width: 500px;
+  height: 500px;
+  
+}
+.services {
+  /* background-image: url('/images/black-and-white-paw-print-repeated-pattern-RFAF4F.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* opacity:  */
+
+}
+
+.products {
+  /* background-image: url('/images/img-1.jpg'); */
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.sign-up {
+  /* background-image: url('/images/img-8.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}

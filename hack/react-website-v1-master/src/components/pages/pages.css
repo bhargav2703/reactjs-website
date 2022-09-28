@@ -1,0 +1,16 @@
+.services{
+    /* justify-content: ; */
+    /* background-image: url('images/black-and-white-paw-print-repeated-pattern-RFAF4F.jpg'); */
+    padding: 50px;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: left;
+}
+h2{
+    font-size: 70px;
+    /* color:  */
+}
+h3{
+    font-size: 30px;
+    
+}
